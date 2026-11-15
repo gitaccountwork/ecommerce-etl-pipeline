@@ -295,16 +295,6 @@ docker compose up -d # Start Airflow services in detached mode
 
 
 
-
-
-
-
-
-
-
-
-
-#here add new feature which name is feature1
-
+#here add new feature which name is feature1 i have  added in dev environment
 
 
